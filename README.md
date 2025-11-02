@@ -106,6 +106,6 @@ Further improvements to include:
 ---
 
 ## Author
-Hi, I am Darius, and this is my final project for CS50P. It is embarassing to admit how much time I have spent on this project, but I am quite happy that it is completed to a standard where its base utility is (somewhat) presentable.
+Hi, I am Darius, and this is my final project for CS50P. It is embarassing to admit how much time I have spent on this project, but I am quite happy that it is completed to a standard where its base utility is to my satisfaction.
 
-For some context, I am a frequent user of Reddit so I have always been fascinated in being able to play or toy with data collected from certain subreddits, and what insights I can ascertain from that data. So with this opportunity to present a personal project for submission to CS50P, my choices for what to pursue for the project had, already, been personally well defined LOL.
+For some context, I am a frequent user of Reddit so I have always been fascinated in being able to play or toy with data collected from certain subreddits, and what insights I can ascertain from that data. So with this opportunity to present a personal project for submission to CS50P, my choices for what to pursue for the project had, already, been personally well defined.
