@@ -1,4 +1,4 @@
-# Reddit Data Scraper
+# Reddit Scraper
 ## Video demo: https://youtu.be/7KMl33QE2EM
 ## Overview
 The overaching purpose of this program is to enable users to investigate subreddit engagement metrics over customizable time ranges.
